@@ -1,0 +1,17 @@
+body {
+    background-color : rgb(246, 203, 203);
+    border: 40px solid rgb(137, 143, 227);
+    font-size: 24px;
+}
+
+h1 {
+    font-size: 3em;
+    text-decoration: underline rgb(110, 148, 200);
+    font-weight: 900;
+}
+
+h2 {
+    border: 10px solid rgb(140, 140, 217);
+    font-size: 1.5em;
+    font-weight: normal;
+}

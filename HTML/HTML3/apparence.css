@@ -1,0 +1,69 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color : rgb(246, 203, 203);
+    font-size: 24px;
+    
+}
+
+h1 {
+    font-size: 2em;
+    text-decoration: underline rgb(110, 148, 200);
+    font-weight: 900;
+}
+
+h2 {
+    border: 10px solid rgb(140, 140, 217);
+    font-size: 1.5em;
+    font-weight: normal;
+}
+
+#a {
+    width: 50vw;
+    border: 5px dotted black ;
+}
+
+.Lettrine {
+    font-size: 2em;
+    font-weight: bolder;
+}
+
+p {
+    text-align: justify;
+}
+
+h1, h2 {
+    font-weight: bold;
+    text-transform : uppercase;
+    text-align : justify
+}   
+
+em {
+    background-color: aqua;
+    font-style: normal;
+    border: 10px solid black;
+}
+
+#boobas {
+    background-color: beige;
+}
+
+#imma {
+    background-color: rgb(84, 244, 169);
+}
+
+.boo img{
+    width: 50%;
+}
+
+.boo {
+    width: 40%;
+    padding: 0%;
+    min-height: auto;
+    margin: 5px ;
+    display: inline-block;
+    vertical-align: top;
+
+}
